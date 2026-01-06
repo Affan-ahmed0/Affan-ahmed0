@@ -22,11 +22,3 @@ Hey there! I'm Affan Ahmed
 ---
 [![](https://visitcount.itsvg.in/api?id=Affan-ahmed0i&icon=5&color=1)](https://visitcount.itsvg.in)
 
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-
