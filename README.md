@@ -14,7 +14,7 @@ Hey there! I'm Affan Ahmed
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&logoColor=fff&style=for-the-badge) <br/>
 ![AdobeInDesign](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&logoColor=fff&style=for-the-badge) 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge) 
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?logo=touchdesigner-E87D0D&logoColor=fff&style=for-the-badge) 
+<a>![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?logo=touchdesigner-E87D0D&logoColor=fff&style=for-the-badge) </a>
 ![Rhino](https://img.shields.io/badge/Rhinocerous3d-FFFFFF?logo=rhinocerous3d&logoColor=fff&style=for-the-badge) 
 ![Fusion360](https://img.shields.io/badge/Fusion360-F2520A?logo=fusion360&logoColor=fff&style=for-the-badge)
 
